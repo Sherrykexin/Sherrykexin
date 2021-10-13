@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sherrykexin
-- 👀 I’m interested in gnn & cybersecurity & IoT
+- 👀 I’m interested in GNN & cybersecurity & IoT
 - 📫 How to reach me: admin@kexinsherryxu.com
 
 <!---
